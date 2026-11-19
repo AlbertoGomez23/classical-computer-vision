@@ -1,0 +1,41 @@
+color,condition,image,r,g,b,gray
+Dark green,Classroom 1,class_day1.jpeg,0.083539,0.496993,0.419468,0.140621
+Medium green,Classroom 1,class_day1.jpeg,0.279843,0.389831,0.330326,0.221603
+Light green,Classroom 1,class_day1.jpeg,0.353665,0.464534,0.181801,0.304808
+Orange,Classroom 1,class_day1.jpeg,0.582115,0.261363,0.156522,0.263494
+Yellow,Classroom 1,class_day1.jpeg,0.541939,0.377214,0.080846,0.342200
+Beige,Classroom 1,class_day1.jpeg,0.377944,0.348884,0.273172,0.356310
+Dark brown,Classroom 1,class_day1.jpeg,0.452190,0.230945,0.316865,0.095706
+Light brown,Classroom 1,class_day1.jpeg,0.435093,0.303105,0.261801,0.205241
+Gray,Classroom 1,class_day1.jpeg,0.285526,0.316318,0.398155,0.158853
+Black,Classroom 1,class_day1.jpeg,0.227180,0.261205,0.511614,0.068265
+White,Classroom 1,class_day1.jpeg,0.330764,0.332241,0.336995,0.463277
+Dark green,Classroom 2,class_day2.jpeg,0.047032,0.518967,0.434000,0.185869
+Medium green,Classroom 2,class_day2.jpeg,0.264797,0.390177,0.345026,0.320542
+Light green,Classroom 2,class_day2.jpeg,0.331422,0.456265,0.212313,0.380805
+Orange,Classroom 2,class_day2.jpeg,0.574205,0.272867,0.152928,0.365116
+Yellow,Classroom 2,class_day2.jpeg,0.546545,0.382641,0.070814,0.400256
+Beige,Classroom 2,class_day2.jpeg,0.360134,0.346008,0.293858,0.444073
+Dark brown,Classroom 2,class_day2.jpeg,0.427453,0.273221,0.299326,0.194347
+Light brown,Classroom 2,class_day2.jpeg,0.436104,0.309665,0.254231,0.286774
+Gray,Classroom 2,class_day2.jpeg,0.279099,0.322724,0.398177,0.218852
+Black,Classroom 2,class_day2.jpeg,0.245568,0.291255,0.463177,0.099306
+White,Classroom 2,class_day2.jpeg,0.320320,0.332689,0.346991,0.528376
+Dark green,Laboratory,lab_1.jpeg,0.092856,0.461466,0.445678,0.202851
+Medium green,Laboratory,lab_1.jpeg,0.241587,0.385072,0.373341,0.279997
+Light green,Laboratory,lab_1.jpeg,0.311796,0.460273,0.227931,0.341622
+Orange,Laboratory,lab_1.jpeg,0.498289,0.251683,0.250028,0.354182
+Dark brown,Laboratory,lab_1.jpeg,0.368201,0.227479,0.404320,0.110406
+Light brown,Laboratory,lab_1.jpeg,0.361963,0.292228,0.345809,0.296869
+Gray,Laboratory,lab_1.jpeg,0.239931,0.310811,0.449259,0.185916
+Black,Laboratory,lab_1.jpeg,0.174380,0.247931,0.577689,0.071635
+White,Laboratory,lab_1.jpeg,0.304431,0.331307,0.364262,0.610332
+Dark green,Laboratory,lab_2.jpeg,0.093363,0.470180,0.436457,0.219123
+Medium green,Laboratory,lab_2.jpeg,0.250472,0.385881,0.363647,0.318407
+Light green,Laboratory,lab_2.jpeg,0.320905,0.462437,0.216658,0.445363
+Yellow,Laboratory,lab_2.jpeg,0.491614,0.384282,0.124104,0.547555
+Beige,Laboratory,lab_2.jpeg,0.330101,0.405778,0.264121,0.516768
+Dark brown,Laboratory,lab_2.jpeg,0.403960,0.253209,0.342831,0.135635
+Gray,Laboratory,lab_2.jpeg,0.256216,0.321038,0.422746,0.230573
+Black,Laboratory,lab_2.jpeg,0.181980,0.265870,0.552150,0.073030
+White,Laboratory,lab_2.jpeg,0.304682,0.335451,0.359867,0.703106
